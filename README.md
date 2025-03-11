@@ -1,3 +1,6 @@
+![Languages](https://img.shields.io/github/languages/top/C4nix/shopping_list_app)
+![License](https://img.shields.io/github/license/C4nix/shopping_list_app)
+
 # 🛒 Shopping List App
 
 A simple Command-Line Interface (CLI) Python application for managing a shopping list. This app allows users to add, remove, view, and save items in a shopping list, with support for loading and saving the list to a file. This project helps you practice working with lists, file handling, user input, and conditionals in Python.
